@@ -1,0 +1,101 @@
+
+`php:S103½"KSplit this 132 characters long line (which is greater than 120 authorized).(ˆŞÇí
+W	php:S1808"=Move this open curly brace to the beginning of the next line.(“÷è‡ûÿÿÿÿ
+X	php:S1808‚"=Move this open curly brace to the beginning of the next line.(÷­àÊúÿÿÿÿ
+X	php:S1808"=Move this open curly brace to the beginning of the next line.(ĞÈ„üøÿÿÿÿ
+X	php:S1808˜"=Move this open curly brace to the beginning of the next line.(æÎ·ıÿÿÿÿ
+X	php:S1808¢"=Move this open curly brace to the beginning of the next line.(óÁÄ¸ÿÿÿÿÿ
+X	php:S1808­"=Move this open curly brace to the beginning of the next line.(ÎœóÌøÿÿÿÿ
+X	php:S1808·"=Move this open curly brace to the beginning of the next line.(º¥å¯şÿÿÿÿ
+S	php:S1808Â"=Move this open curly brace to the beginning of the next line.(¼•
+S	php:S1808Ì"=Move this open curly brace to the beginning of the next line.(¬Üü™
+X	php:S1808×"=Move this open curly brace to the beginning of the next line.(¿¿´ıÿÿÿÿ
+X	php:S1808á"=Move this open curly brace to the beginning of the next line.(¶ØÅÙûÿÿÿÿ
+S	php:S1808í"=Move this open curly brace to the beginning of the next line.(È¤êæ
+X	php:S1808ù"=Move this open curly brace to the beginning of the next line.(•ŞÖ¾üÿÿÿÿ
+X	php:S1808‡"=Move this open curly brace to the beginning of the next line.(ËÆÄùùÿÿÿÿ
+X	php:S1808’"=Move this open curly brace to the beginning of the next line.(ãÿ¸èıÿÿÿÿ
+S	php:S1808œ"=Move this open curly brace to the beginning of the next line.(ÇŸŸß
+R	php:S1808§"=Move this open curly brace to the beginning of the next line.(¡¼£T
+S	php:S1808±"=Move this open curly brace to the beginning of the next line.(ñ‰©…
+X	php:S1808½"=Move this open curly brace to the beginning of the next line.(·ˆï¢şÿÿÿÿ
+X	php:S1808É"=Move this open curly brace to the beginning of the next line.(ÙÀÜ“ùÿÿÿÿ
+S	php:S1808×"=Move this open curly brace to the beginning of the next line.(Ñ¬ñö
+X	php:S1808â"=Move this open curly brace to the beginning of the next line.(ÏÌ–µÿÿÿÿÿ
+X	php:S1808î"=Move this open curly brace to the beginning of the next line.(ûî¤şÿÿÿÿ
+X	php:S1808ı"=Move this open curly brace to the beginning of the next line.(Ş¬Îçşÿÿÿÿ
+S	php:S1808‡"=Move this open curly brace to the beginning of the next line.(ÖûŒ£
+X	php:S1808–"=Move this open curly brace to the beginning of the next line.(ÜÏäÿÿÿÿÿ
+X	php:S1808 "=Move this open curly brace to the beginning of the next line.(÷òÑ£ùÿÿÿÿ
+S	php:S1808«"=Move this open curly brace to the beginning of the next line.(Å½¸€
+S	php:S1808µ"=Move this open curly brace to the beginning of the next line.(†®Ë†
+S	php:S1808À"=Move this open curly brace to the beginning of the next line.(ñôşŠ
+X	php:S1808Ë"=Move this open curly brace to the beginning of the next line.(ëÓøùÿÿÿÿ
+X	php:S1808Ø"=Move this open curly brace to the beginning of the next line.(©«ÛŠşÿÿÿÿ
+X	php:S1808ã"=Move this open curly brace to the beginning of the next line.(Àµéäúÿÿÿÿ
+S	php:S1808î"=Move this open curly brace to the beginning of the next line.(û®†¤
+S	php:S1808ü"=Move this open curly brace to the beginning of the next line.(…øÔ±
+S	php:S1808‡"=Move this open curly brace to the beginning of the next line.(ª®‰Ø
+S	php:S1808˜"=Move this open curly brace to the beginning of the next line.(¢ñ×ô
+S	php:S1808¹"=Move this open curly brace to the beginning of the next line.(ÑĞ®û
+m	php:S1808‚"RRemove all space after the opening parenthesis and before the closing parenthesis.(÷­àÊúÿÿÿÿ
+m	php:S1808"RRemove all space after the opening parenthesis and before the closing parenthesis.(ĞÈ„üøÿÿÿÿ
+m	php:S1808¢"RRemove all space after the opening parenthesis and before the closing parenthesis.(óÁÄ¸ÿÿÿÿÿ
+m	php:S1808·"RRemove all space after the opening parenthesis and before the closing parenthesis.(º¥å¯şÿÿÿÿ
+h	php:S1808Ì"RRemove all space after the opening parenthesis and before the closing parenthesis.(¬Üü™
+m	php:S1808á"RRemove all space after the opening parenthesis and before the closing parenthesis.(¶ØÅÙûÿÿÿÿ
+h	php:S1808í"RRemove all space after the opening parenthesis and before the closing parenthesis.(È¤êæ
+g	php:S1808î"RRemove all space after the opening parenthesis and before the closing parenthesis.(ŒöûF
+m	php:S1808ù"RRemove all space after the opening parenthesis and before the closing parenthesis.(•ŞÖ¾üÿÿÿÿ
+m	php:S1808ú"RRemove all space after the opening parenthesis and before the closing parenthesis.(Úî‹íúÿÿÿÿ
+m	php:S1808ü"RRemove all space after the opening parenthesis and before the closing parenthesis.(İË±úÿÿÿÿ
+m	php:S1808‡"RRemove all space after the opening parenthesis and before the closing parenthesis.(ËÆÄùùÿÿÿÿ
+h	php:S1808œ"RRemove all space after the opening parenthesis and before the closing parenthesis.(ÇŸŸß
+h	php:S1808±"RRemove all space after the opening parenthesis and before the closing parenthesis.(ñ‰©…
+m	php:S1808½"RRemove all space after the opening parenthesis and before the closing parenthesis.(·ˆï¢şÿÿÿÿ
+h	php:S1808¾"RRemove all space after the opening parenthesis and before the closing parenthesis.(ëó£ò
+m	php:S1808É"RRemove all space after the opening parenthesis and before the closing parenthesis.(ÙÀÜ“ùÿÿÿÿ
+m	php:S1808Ê"RRemove all space after the opening parenthesis and before the closing parenthesis.(ñÓñòıÿÿÿÿ
+m	php:S1808Ì"RRemove all space after the opening parenthesis and before the closing parenthesis.(¦©«Îşÿÿÿÿ
+h	php:S1808×"RRemove all space after the opening parenthesis and before the closing parenthesis.(Ñ¬ñö
+m	php:S1808î"RRemove all space after the opening parenthesis and before the closing parenthesis.(ûî¤şÿÿÿÿ
+m	php:S1808ï"RRemove all space after the opening parenthesis and before the closing parenthesis.(šÂ§îøÿÿÿÿ
+m	php:S1808ï"RRemove all space after the opening parenthesis and before the closing parenthesis.(šÂ§îøÿÿÿÿ
+h	php:S1808ğ"RRemove all space after the opening parenthesis and before the closing parenthesis.(ı®”¾
+h	php:S1808‡"RRemove all space after the opening parenthesis and before the closing parenthesis.(ÖûŒ£
+h	php:S1808ˆ"RRemove all space after the opening parenthesis and before the closing parenthesis.(©¡Ô£
+h	php:S1808ˆ"RRemove all space after the opening parenthesis and before the closing parenthesis.(©¡Ô£
+m	php:S1808‰"RRemove all space after the opening parenthesis and before the closing parenthesis.(®¯¾ïÿÿÿÿÿ
+m	php:S1808 "RRemove all space after the opening parenthesis and before the closing parenthesis.(÷òÑ£ùÿÿÿÿ
+h	php:S1808µ"RRemove all space after the opening parenthesis and before the closing parenthesis.(†®Ë†
+m	php:S1808Ë"RRemove all space after the opening parenthesis and before the closing parenthesis.(ëÓøùÿÿÿÿ
+m	php:S1808Ì"RRemove all space after the opening parenthesis and before the closing parenthesis.(½Üîùÿÿÿÿ
+m	php:S1808Ø"RRemove all space after the opening parenthesis and before the closing parenthesis.(©«ÛŠşÿÿÿÿ
+m	php:S1808Ù"RRemove all space after the opening parenthesis and before the closing parenthesis.(Ş°Àòüÿÿÿÿ
+m	php:S1808ã"RRemove all space after the opening parenthesis and before the closing parenthesis.(Àµéäúÿÿÿÿ
+m	php:S1808ï"RRemove all space after the opening parenthesis and before the closing parenthesis.(ëÓË ÿÿÿÿÿ
+m	php:S1808ï"RRemove all space after the opening parenthesis and before the closing parenthesis.(ëÓË ÿÿÿÿÿ
+m	php:S1808ò"RRemove all space after the opening parenthesis and before the closing parenthesis.(Óí¡úÿÿÿÿ
+h	php:S1808‰"RRemove all space after the opening parenthesis and before the closing parenthesis.(Ù’¤
+h	php:S1808Œ"RRemove all space after the opening parenthesis and before the closing parenthesis.(¨Äªù
+m	php:S1808"RRemove all space after the opening parenthesis and before the closing parenthesis.(˜™˜äıÿÿÿÿ
+h	php:S1808"RRemove all space after the opening parenthesis and before the closing parenthesis.(Ùáµ—
+m	php:S1808"RRemove all space after the opening parenthesis and before the closing parenthesis.(ÌÏ Åùÿÿÿÿ
+h	php:S1808§"RRemove all space after the opening parenthesis and before the closing parenthesis.(Ï†üÔ
+h	php:S1808§"RRemove all space after the opening parenthesis and before the closing parenthesis.(Ï†üÔ
+h	php:S1808¬"RRemove all space after the opening parenthesis and before the closing parenthesis.(­Äñè
+h	php:S1808¹"RRemove all space after the opening parenthesis and before the closing parenthesis.(ÑĞ®û
+h	php:S1808½"RRemove all space after the opening parenthesis and before the closing parenthesis.(ˆŞÇí
+m	php:S1808¾"RRemove all space after the opening parenthesis and before the closing parenthesis.(š»·ÿÿÿÿÿ
+mphp:S116O"TRename this field "$post_types" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(…Ş˜Íşÿÿÿÿ
+3php:S113"'Add a new line at the end of this file.
+lphp:S117±"WRename this parameter "$post_type" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ñ‰©…
+rphp:S117½"XRename this parameter "$post_types" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(·ˆï¢şÿÿÿÿ
+qphp:S117É"WRename this parameter "$post_type" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÙÀÜ“ùÿÿÿÿ
+mphp:S117×"XRename this parameter "$post_types" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ñ¬ñö
+sphp:S117‰"^Rename this local variable "$field_group" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ù’¤
+rphp:S117‹"]Rename this local variable "$rule_group" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Õ¬­
+mphp:S117¹"XRename this parameter "$is_preview" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÑĞ®û
+jphp:S117¹"URename this parameter "$post_id" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÑĞ®û
+q	php:S1192Ì"VDefine a constant instead of duplicating this literal "codifier/blocks/data/" 3 times.(½Üîùÿÿÿÿ
+{	php:S1448"aClass "Block" has 37 methods, which is greater than 20 authorized. Split it into smaller classes.(“÷è‡ûÿÿÿÿ
